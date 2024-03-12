@@ -4,3 +4,7 @@ cd
 vi
 rm
 mv
+top
+head
+tail
+chmod
